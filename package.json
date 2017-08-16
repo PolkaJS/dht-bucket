@@ -1,7 +1,7 @@
 {
   "name": "@polkajs/dht-bucket",
   "version": "1.0.0",
-  "description": "When creating new modules, use this skeletal structure",
+  "description": "Bucket algorithm used in Kademlia protocol",
   "main": "index.js",
   "scripts": {
     "lint+build+test": "yarn run lint && yarn run build && yarn run test",

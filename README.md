@@ -8,7 +8,7 @@
 [downloads-url]: https://npmjs.org/package/@polkajs/dht-bucket
 
 ## About
-
+Bucket algorithm used in Kademlia protocol
 
 
 ---
