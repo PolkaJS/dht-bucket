@@ -1,19 +1,15 @@
-# skeleton-module [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/PolkaJS/skeleton-module.svg)](https://greenkeeper.io/)
+# dht-bucket [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/PolkaJS/dht-bucket.svg)](https://greenkeeper.io/)
 
-[travis-image]: https://travis-ci.org/PolkaJS/skeleton-module.svg?branch=master
-[travis-url]: https://travis-ci.org/PolkaJS/skeleton-module
-[npm-image]: https://img.shields.io/npm/v/@polkajs/skeleton-module.svg
-[npm-url]: https://npmjs.org/package/@polkajs/skeleton-module
-[downloads-image]: https://img.shields.io/npm/dm/@polkajs/skeleton-module.svg
-[downloads-url]: https://npmjs.org/package/@polkajs/skeleton-module
+[travis-image]: https://travis-ci.org/PolkaJS/dht-bucket.svg?branch=master
+[travis-url]: https://travis-ci.org/PolkaJS/dht-bucket
+[npm-image]: https://img.shields.io/npm/v/@polkajs/dht-bucket.svg
+[npm-url]: https://npmjs.org/package/@polkajs/dht-bucket
+[downloads-image]: https://img.shields.io/npm/dm/@polkajs/dht-bucket.svg
+[downloads-url]: https://npmjs.org/package/@polkajs/dht-bucket
 
 ## About
 
-**Create new modules with this skeleton**
 
-`git clone https://github.com/PolkaJS/skeleton-module.git`
-
-`git remote rm origin`
 
 ---
 

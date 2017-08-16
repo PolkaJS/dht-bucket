@@ -1,6 +1,6 @@
 {
-  "name": "@polkajs/skeleton-module",
-  "version": "1.0.4",
+  "name": "@polkajs/dht-bucket",
+  "version": "1.0.0",
   "description": "When creating new modules, use this skeletal structure",
   "main": "index.js",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PolkaJS/skeleton-module.git"
+    "url": "git+https://github.com/PolkaJS/dht-bucket.git"
   },
   "author": "Craig OConnor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PolkaJS/skeleton-module/issues"
+    "url": "https://github.com/PolkaJS/dht-bucket/issues"
   },
-  "homepage": "https://github.com/PolkaJS/skeleton-module#readme",
+  "homepage": "https://github.com/PolkaJS/dht-bucket#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
@@ -33,5 +33,8 @@
     "random-words": "0.0.1",
     "rlp": "^2.0.0",
     "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "randombytes": "^2.0.5"
   }
 }
