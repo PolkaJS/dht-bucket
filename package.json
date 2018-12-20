@@ -31,7 +31,7 @@
     "eslint": "^4.0.0",
     "flow-bin": "^0.53.0",
     "random-words": "0.0.1",
-    "rlp": "^2.0.0",
+    "rlp": "^2.2.1",
     "tape": "^4.6.3"
   },
   "dependencies": {
